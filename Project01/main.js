@@ -1,5 +1,4 @@
-"use strict";
-let message = "Hello World";
+var message = "Hello World";
 //message = "abc";
 console.log(message);
 // let firstName = "Sahil Kumar";
