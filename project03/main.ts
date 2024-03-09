@@ -61,15 +61,15 @@ console.log("start");
 let c = 10;
 c += 5;
 console.log(c);
-console.log("end")
+console.log("end");
 
 //comparison operators
-console.log("comparsion operators")
-console.log("start")
+console.log("comparsion operators");
+console.log("start");
 let numb1:number = 5;
 let numb2:number = 2;
 console.log(numb1 == numb2);
-console.log(numb1 != numb2)
-console.log(numb1 > numb2)
-console.log(numb1 < numb2)
-console.log("end")
+console.log(numb1 != numb2);
+console.log(numb1 > numb2);
+console.log(numb1 < numb2);
+console.log("end");
